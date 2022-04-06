@@ -10,7 +10,7 @@ Drive in a suqare
     To turn 90 degrees, the robot sets the velocity to pi/2 radians divided by the time of the movement, which is 10 seconds.
     
     
-    GIF: ![gif of driving in a square](gifs/square.gif)
+    GIF: ![gif of driving in a square](gifs/IMG_6325_MOV_AdobeCreativeCloudExpress.gif)
     
     
     Challenges: As I begin this project, the biggest challenge is developing a workflow for this class. The speed of my VM and various issues trying to connect to the robot greatly slowdown the speed of my work. It was also challenging to understand that there had to be a pause before the topic was published, I only figured this out when the labsolutions were posted. Additionally, there seemed to be error in the robot turning 90 degrees on subsequent turns, and the source of that error is unknown.

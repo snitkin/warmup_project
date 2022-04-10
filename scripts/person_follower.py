@@ -25,7 +25,7 @@ class Follower:
 
             myArr = np.array(data.ranges)
 
-            #if value is 0, set to nan
+            #if value is 0, set to 60 because that's outside of range
             myArr[myArr == 0] = 60
             #get the angle and the distance of the closest object
             closeAngle = np.argmin(myArr)

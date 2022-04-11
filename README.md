@@ -12,7 +12,7 @@
     
     
     GIF: 
-  ![Drive Square](https://github.com/snitkin/warmup_project/blob/9e5a34a3c908108b17eb4b8477d41be1bc13bb8e/gifs/person_follower.gif)
+  ![Drive Square](https://github.com/snitkin/warmup_project/blob/203a438dd31e93879e8c278ac01ea55e5c094bac/gifs/drive_square.gif)
     
     
     Challenges: As I begin this project, the biggest challenge is developing a workflow for this class. The speed of my VM and various issues trying to connect to the robot greatly slowdown the speed of my work. It was also challenging to understand that there had to be a pause before the topic was published, I only figured this out when the labsolutions were posted. Additionally, there seemed to be error in the robot turning 90 degrees on subsequent turns, and the source of that error is unknown.
